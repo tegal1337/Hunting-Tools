@@ -1,6 +1,6 @@
-### Cracking Tools
+### OSINT Tools
 
-Software cracking is the modification of software to remove or disable features which are considered undesirable by the person cracking the software, especially copy protection features or software annoyances like nag screens and adware.
+Open-source intelligence is a multi-factor methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an intelligence context. In the intelligence community, the term "open" refers to overt, publicly available sources
 
 | Tools        | Description | URL | 
 | --------------- |:---------:|:---:|
